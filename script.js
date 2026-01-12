@@ -134,3 +134,5 @@ window.onload = function () {
     document.getElementById("year").innerText =
         "Copyright Pixell River Financial " + currentYear;
 };
+
+
