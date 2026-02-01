@@ -2,7 +2,6 @@
   "name": "labs",
   "version": "1.0.0",
   "main": "script.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +16,11 @@
     "url": "https://github.com/komalpreetkaur90/Full_Stack_Develpment_Labs/issues"
   },
   "homepage": "https://github.com/komalpreetkaur90/Full_Stack_Develpment_Labs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-router-dom": "^6.30.3"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
 }
